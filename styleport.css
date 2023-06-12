@@ -187,38 +187,37 @@ button:hover {
   margin: 10px;
   width: 370px;
   height: 404px;
-
 }
 
 .project h5 {
-    width: 322px;
-height: 36px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 36px;
-    /* identical to box height, or 200% */
-    
-    letter-spacing: 0.06em;
-    
-    color: #212121;
-    margin: 20px 24px 2px;
+  width: 322px;
+  height: 36px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+  margin: 20px 24px 2px;
 }
-.project p{
-    width: 322px;
-height: 30px;
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 30px;
-/* identical to box height, or 188% */
+.project p {
+  width: 322px;
+  height: 30px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
 
-letter-spacing: 0.03em;
+  letter-spacing: 0.03em;
 
-color: #757575;
-margin: 2px 24px 20px 24px;
+  color: #757575;
+  margin: 2px 24px 20px 24px;
 }
 /* FOOTER */
 footer {

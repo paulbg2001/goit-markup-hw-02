@@ -128,8 +128,9 @@ nav ul li {
   color: #2196f3;
 }
 
-#mail:hover, #mail.active{
-    background: none;
+#mail:hover,
+#mail.active {
+  background: none;
   color: #2196f3;
 }
 
