@@ -191,7 +191,7 @@ button:hover {
 }
 
 .project h5 {
-  width: 322px;
+  width: 350px;
   height: 36px;
   /* font-family: "Roboto"; */
   font-style: normal;
@@ -200,7 +200,7 @@ button:hover {
   line-height: 36px;
   /* identical to box height, or 200% */
 
-  letter-spacing: 0.06em;
+  letter-spacing: 0.03em;
 
   color: #212121;
   margin: 20px 24px 2px;
