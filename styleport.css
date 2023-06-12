@@ -6,6 +6,7 @@
   box-sizing: border-box;
 }
 body {
+  font-family: "Roboto", sans-serif;
   position: relative;
   width: 1600px;
   height: 1879px;
@@ -55,7 +56,7 @@ nav ul li {
   height: 16px;
   left: 545px;
   top: 32px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -68,7 +69,7 @@ nav ul li {
   height: 16px;
   left: 653px;
   top: 32px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -82,7 +83,7 @@ nav ul li {
   height: 16px;
   left: 453px;
   top: 32px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -97,7 +98,7 @@ nav ul li {
   height: 16px;
   left: 1097px;
   top: 32px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -112,7 +113,7 @@ nav ul li {
   height: 16px;
   left: 1272px;
   top: 32px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -160,9 +161,9 @@ button {
   border: #f5f4fa;
   padding: 6px 22px;
   color: #212121;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
   font-style: normal;
-  font-weight: 800;
+  font-weight: 500;
   font-size: 16px;
   line-height: 26px;
 
@@ -192,7 +193,7 @@ button:hover {
 .project h5 {
   width: 322px;
   height: 36px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -207,7 +208,7 @@ button:hover {
 .project p {
   width: 322px;
   height: 30px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -239,7 +240,7 @@ footer ul {
 }
 
 footer ul li {
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
