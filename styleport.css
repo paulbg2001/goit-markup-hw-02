@@ -122,14 +122,14 @@ nav ul li {
   color: #757575;
 }
 
-.navbar_btn{
+.navbar_btn {
   color: #212121;
-  font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
 }
 .navbar_btn:hover,
 .navbar_btn.active {
