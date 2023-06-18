@@ -48,9 +48,14 @@ nav ul li {
   display: inline-block;
   line-height: 80px;
   margin: 0, 5px;
+  color: #212121;
+  
 }
 
 /* NAV Buttons */
+
+
+
 #Portfolio {
   position: absolute;
   width: 58px;
@@ -76,7 +81,6 @@ nav ul li {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
-  color: black;
 }
 #Studio {
   position: absolute;
@@ -90,7 +94,6 @@ nav ul li {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
-  color: black;
 }
 
 #mail {
@@ -122,11 +125,22 @@ nav ul li {
   letter-spacing: 0.02em;
   color: #757575;
 }
+.navbar_btn {
+  color: #212121;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
 .navbar_btn:hover,
 .navbar_btn.active {
   background: none;
   color: #2196f3;
 }
+
 
 #mail:hover,
 #mail.active {
@@ -201,7 +215,6 @@ nav ul li {
   height: 101px;
   left: 215px;
   top: 774px;
-  margin-top: -40px;
 }
 
 .card-set {

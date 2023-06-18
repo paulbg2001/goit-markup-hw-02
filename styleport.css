@@ -121,6 +121,16 @@ nav ul li {
   letter-spacing: 0.02em;
   color: #757575;
 }
+
+.navbar_btn{
+  color: #212121;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+}
 .navbar_btn:hover,
 .navbar_btn.active {
   background: none;
